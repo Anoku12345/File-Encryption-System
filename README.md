@@ -24,3 +24,5 @@ Users can select a file to decrypt and enter the same key used during the encryp
 ![Image](https://github.com/user-attachments/assets/2eefb7d4-9854-4768-af41-b5fdb35c9c99)
 
 ![Image](https://github.com/user-attachments/assets/aa265f17-68a5-4f55-ae50-b024eea119d5)
+
+![Image](https://github.com/user-attachments/assets/052e4795-6469-4ed8-a2ac-cabfae0bfe43)
